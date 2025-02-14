@@ -16,3 +16,5 @@ A copy of this library is attached and labelled "graphics.py".
 
 ### Additional Information
 More: https://devpost.com/software/virtual-pet-simulator
+
+CHANGE MADE BY MISHA
